@@ -1,11 +1,10 @@
 # vue-svg-ripple
 
-<img src="sample.gif" />
-
 <ul>
 	<li><a href="https://yoshihitofujiwara.github.io/vue-svg-ripple/index.html" target="_blank">DEMO</a></li>
 </ul>
 
+<img src="sample.gif" />
 
 ___
 ## Usage
@@ -44,7 +43,7 @@ svg {
 ___
 ## Options
 
-|name|type|default|description|
+|Params|Type|Default|Description|
 |----|----|----|----|
 |image|String|undefined|<strong style="color:#f09">Required</strong> image path|
 |distance|Number|512|Ripple Distance|
