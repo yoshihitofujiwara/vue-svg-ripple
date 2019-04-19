@@ -75,6 +75,11 @@ export default {
 </script>
 
 <style>
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -83,9 +88,21 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+h1{
+	margin-bottom: 20px;
+}
 svg {
   width: 640px;
   height: 360px;
   cursor: pointer;
 }
+@media all and (max-width: 768px){
+	svg {
+		width: 100vw;
+		height: 56.25vw;
+		/* height: 100%; */
+	}
+}
+
+
 </style>

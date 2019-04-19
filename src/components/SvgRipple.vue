@@ -90,7 +90,7 @@ export default {
       height: 0,
 
 			// @private
-			size: 0,
+			size: -1,
 			x: 0,
 			y: 0,
 			scale: 0,
