@@ -105,7 +105,6 @@ svg {
 	svg {
 		width: 100vw;
 		height: 56.25vw;
-		/* height: 100%; */
 	}
 }
 </style>

@@ -82,14 +82,14 @@ export default {
       width: 0,
       height: 0,
 
-      // @private
-      size: 0,
-      x: 0,
-      y: 0,
-      scale: 0,
-      originX: 0,
-      originY: 0,
-      progress: 0
+			// @private
+			size: -1,
+			x: 0,
+			y: 0,
+			scale: 0,
+			originX: 0,
+			originY: 0,
+			progress: 0
     };
   },
 
