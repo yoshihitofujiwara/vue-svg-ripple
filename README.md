@@ -50,10 +50,21 @@ ___
 |depth|Number|100|Ripple Depth|
 |duration|Number|0.8|Animation Duration (Sec)|
 |ease|String, Object|Power2.easeOut|Animation Easing: <a href="https://greensock.com/docs/Easing" target="_blank">GreenSock Ease</a>|
-|isClick|Boolean|true|Click To Ripple|
+|isEmit|Boolean|true|event To Ripple|
 |click|event| | emit click |
 ___
 
+
+## Supports
+- Chrome
+- Safari
+- Firefox
+- Edge
+- IE 11
+- Android Chrome
+- ios Safari
+
+___
 
 ## Project setup
 yarn or npm
